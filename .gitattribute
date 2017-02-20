@@ -1,0 +1,5 @@
+caffe-fast-rcnn/* linguist-vendored
+experiments/* linguist-vendored
+lib/* linguist-vendored
+models/* linguist-vendored
+
